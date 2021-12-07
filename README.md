@@ -1,1 +1,1 @@
-My portfolio project built with HTML, CSS , JS 
+My portfolio project built with HTML, CSS , JS. 
