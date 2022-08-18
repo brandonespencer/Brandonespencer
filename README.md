@@ -1,5 +1,5 @@
 <h2 align="left">Hey! I'm Brandon 👨‍💻</h2>
-<h3 align="left">A passionate frontend developer and coffee enthusiast currently building UIs and gaining knowledge at Michigan state full stack bootcamp.</h3>
+<h3 align="left">A passionate developer dedicated about learning and development with a desire to apply skills on a larger development platform. Im eager to tackle more complex problems and continue to find ways to maximize user efficiency.</h3>
 
 <br>
 
